@@ -1,2 +1,0 @@
-# osunadj.github.io
-Autentificacion
